@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Tales Duque.
 
-- 🔭 Hoje sou desenvolvedor back-end
-- 🌱 PHP e Magento
-- 😄 Pronomes: ele/dele
+- 🔭 Backend Developer at WEBJUMP
+- 🌱 PHP and Magento (Adobe Commerce)
+- 😄 Pronoun: he/him
+- Fluent English Speaker
 
 <div>
   <a href="https://github.com/TalesWJ">
